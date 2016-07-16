@@ -230,6 +230,26 @@ Type: Rock / Water
 [98]: #krabby
 [99]: #kingler
 
+[100]: #voltorb
+[101]: #electrode
+
+[102]: #exeggcute
+[103]: #exeggutor
+
+[104]: #cubone
+[105]: #marowak
+
+[106]: #hitmonlee
+
+[107]: #hitmonchan
+
+[108]: #lickitung
+
+[109]: #koffling
+[110]: #weezing
+
+[111]: #ryhorn
+[112]: #rhydon
 
 
 
